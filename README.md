@@ -2,6 +2,6 @@
 
 Githubテスト
 
-## member
+##メンバー
 
-*testmember
+*HAYASE
