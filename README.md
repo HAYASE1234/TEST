@@ -2,6 +2,6 @@
 
 Githubテスト
 
-##メンバー
+## member
 
 *testmember
